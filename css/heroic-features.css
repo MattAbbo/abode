@@ -1,0 +1,267 @@
+/*!
+ * Start Bootstrap - Heroic Features HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.hero-spacer {
+    margin-top: 30px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.h1, .h5, .h6, h1, h5, h6 {
+    font-family: inherit;
+    font-weight: 300;
+    line-height: 1.1;
+    color: #ffffff !important;
+
+}
+
+.h4, h4.{
+    font-weight: 300;
+    background-color: #FFFFFF;
+}
+
+.h3, h3.{
+    font-weight: 300;
+}
+
+.h2, h2{
+    line-height: 1.1;
+
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.thumbnail-1 {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-image: url('../img/products/product1.png');
+    background-repeat:no-repeat;
+    background-position: right;
+ 	display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+}
+
+.thumbnail-2 {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-image: url('../img/products/product2.png');
+    background-repeat:no-repeat;
+    background-position: right;
+ 	display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+    /* text-shadow: -1px 0 black, 0 0.2px black, 0.2px 0 black, 0 -0.2px black; */
+}
+
+.thumbnail-3 {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-image: url('../img/products/product3.png');
+    background-repeat:no-repeat;
+    background-position: right;
+ 	display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+}
+
+.thumbnail-4 {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-image: url('../img/products/product4.png');
+    background-repeat:no-repeat;
+    background-position: right;
+    display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+}
+
+.thumbnail-5 {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-image: url('../img/products/product5.png');
+    background-repeat:no-repeat;
+    background-position: right;
+    display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+}
+
+.thumbnail-6 {
+    background-image: url('../img/products/product6.png');
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-repeat:no-repeat;
+    background-position: right;
+    display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+}
+
+.thumbnail-7 {
+    background-image: url('../img/products/product7.png');
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-repeat:no-repeat;
+    background-position: right;
+    display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+}
+
+.thumbnail-8 {
+    background-image: url('../img/products/product8.png');
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-repeat:no-repeat;
+    background-position: right;
+    display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+}
+
+.thumbnail-9 {
+    background-image: url('../img/products/product9.png');
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-repeat:no-repeat;
+    background-position: right;
+    display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+}
+
+.thumbnail-10 {
+    background-image: url('../img/products/product10.png');
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    background-color: #fff;
+    background-repeat:no-repeat;
+    background-position: right;
+    display: compact;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    color: #FDFDFD;
+
+}
+
+
+
+
+
+
+.container {
+    width: 90% !important;
+}
+
+
+
+
+
